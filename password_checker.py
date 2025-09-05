@@ -1,7 +1,7 @@
 import string
 
 # password_checker.py
-def is_valid_password(password):
+def is_valid_password(password): 
     """
     Gültiges Passwort erfüllt:
     - mind. 8 Zeichen
